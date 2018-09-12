@@ -1,0 +1,13 @@
+body,html {
+    background-color: rgb(158, 152, 216);
+}
+
+p {
+    color: rgb(10, 2, 29);
+}
+.grey-copy{color:grey;
+
+}
+#content-wrapper{
+    width:600px;
+}
